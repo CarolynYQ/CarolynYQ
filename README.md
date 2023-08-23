@@ -11,7 +11,7 @@ I'm a frontend developer living in Peru who enjoys reading books or manga and ta
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How to reach me: 
-<a href="https://www.linkedin.com/in/carolyn-yaker/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>LinkedIn</a>
+<a href="https://www.linkedin.com/in/carolyn-yaker/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> LinkedIn</a>
 
 
 
