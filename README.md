@@ -14,6 +14,11 @@
 <a href="https://www.linkedin.com/in/carolyn-yaker/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> LinkedIn</a>
 
 
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+   <img src="https://visitcount.itsvg.in/api?id=CarolynYQ&label=Profile%20Views&icon=0&pretty=true" height="26"/>
+</a>
+</div>
 
 
 
