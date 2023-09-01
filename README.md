@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Carolyn Yaker
+# Hi! 👋 I'm Carolyn Yaker jaja.jpg
  
 👩‍💻 I'm a frontend developer living in Peru who enjoys reading books or manga and taking walks at night. Nice to meet you. 
 
